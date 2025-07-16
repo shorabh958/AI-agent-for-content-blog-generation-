@@ -11,10 +11,15 @@ This project uses a no-code AI agent workflow (built in Gumloop) that takes a Yo
 ----------------------
 🔧 Architecture:
 🧠 LLM Used: GPT-4 (Mini/Max for different steps)
+
 🔗 Agents: Multiple GPT nodes working in parallel for summarization, blog post generation, and title crafting
+
 🌐 API Integration: Ghost CMS API + n8n webhook compatible
+
 🧩 Subflows: Blog generation, thumbnail extraction, structured prompt chaining
+
 🔁 Trigger: Manual input (YouTube URL), but extensible to scheduler or webhook
+
 
 🧪 Sample Input:
 https://www.youtube.com/watch?v=m7csNl92BQ4&ab_channel=RetroGameCorps

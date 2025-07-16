@@ -1,4 +1,4 @@
-🎯 Project Title:
+Project Title:
 AI Agent to Auto-Generate Blog Posts and Thumbnails from YouTube Videos using Gumloop
 ---------------------
 📌 Description:
@@ -21,8 +21,9 @@ This project uses a no-code AI agent workflow (built in Gumloop) that takes a Yo
 🔁 Trigger: Manual input (YouTube URL), but extensible to scheduler or webhook
 
 
-🧪 Sample Input:
-https://www.youtube.com/watch?v=m7csNl92BQ4&ab_channel=RetroGameCorps
+
+> **Sample Input:**
+> `https://www.youtube.com/watch?v=m7csN192BQ4&ab_channel=RetroGameCo`
 
 ✅ Output:
 Blog post: HTML content with intro, mid-review, and final verdict

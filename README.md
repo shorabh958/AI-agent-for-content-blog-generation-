@@ -32,4 +32,6 @@ Blog post: HTML content with intro, mid-review, and final verdict
 > **Thumbnail**
 Thumbnail URL: https://img.youtube.com/vi/m7csNl92BQ4/hqdefault.jpg
 
+**Working Agent**
+Gumloop URL: https://www.gumloop.com/pipeline?workbook_id=nVCdNRwDXrrbPqnkQGRwVh 
 Optional: Auto-posts to Ghost blog
